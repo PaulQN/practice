@@ -1,0 +1,1 @@
+C:\CurrencyCalculator\CurrencyCalculator\CurrencyCalculator.csproj;x86
